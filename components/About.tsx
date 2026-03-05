@@ -20,11 +20,11 @@ export const About: React.FC = () => {
               I’ve worked with startups where clarity and speed matter. That experience shaped how I approach both development and writing: deliberate architecture, thoughtful UX, and documentation that doesn’t waste the reader’s time.
             </p>
           </Reveal>
-          <Reveal>
+          {/* <Reveal>
             <p>
               Fast-forward to today, and I’ve had the privilege of working at an <span className="text-accent">advertising agency</span>, a <span className="text-accent">start-up</span>, a <span className="text-accent">huge corporation</span>, and a <span className="text-accent">student-led design studio</span>.
-            </p>
-          </Reveal>
+            </p> yup
+          </Reveal> */}
           <Reveal>
             <p>
               I am passionate about cutting-edge pixel-perfect, beautiful interfaces and intuitively implemented UX.
